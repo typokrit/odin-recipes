@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: darkslategrey;
+}
+
+a {
+    padding: 16px;
+    color: white;
+    
+}
+
+h1 {
+    color: white;
+    padding: 30px;
+}
+
+img {
+    padding-left: 30px;
+}
+
+.photo-about {
+    padding-left: 30px;
+    color: white;
+    margin-bottom: 16px;
+}
+h3 {
+    font-size: 40px;
+    color: white;
+    padding-left: 30px;
+}
+
+.chicken-description {
+    color: white;
+    max-width: 500px;
+    padding: 30px;
+}
+
+h2 {
+    color: white;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 30px;
+}
+
+ol {
+    list-style: decimal;
+    padding-left: 30px;
+}
+
+li {
+    color: rgb(255, 138, 88);
+    margin-bottom: 10px;
+}
